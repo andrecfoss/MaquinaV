@@ -5,6 +5,6 @@ Software: Java Simulator                    </br>
 Language: <b>Assembly (PEPE)                </b>  
 
 
-Disclaimer!! : 
--> Missing change, bead and stock functionalities.    </br>
--> The UI and Authentication are implemented!         </br>
+Disclaimer!! :   </br>
+-> Missing change, bead and stock functionalities.          </br>
+-> The whole UI and Authentication are implemented!         </br>
