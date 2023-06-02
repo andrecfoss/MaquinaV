@@ -1,2 +1,5 @@
 # MaquinaV
-Vending Machine created on Assembly Language for the Processor PEPE
+
+Vending Machine </br>
+Software: Java Simulator   </b>
+Language: <b>Assembly (PEPE)</b>
